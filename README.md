@@ -1,5 +1,3 @@
-# SQL-CODING-CHALLENGE-DAY-3
-
 # ECommerceDB SQL Practice Project
 Overview
 This project demonstrates core SQL concepts using a simple E-Commerce Database. It includes schema creation, sample data insertion, and a wide range of queries covering DISTINCT, aliases, WHERE, comparison, arithmetic, logical operators, NULL checks, IN/NOT IN, BETWEEN, LIKE, and mixed conditions.
